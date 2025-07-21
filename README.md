@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Imran
+- 🎓 Informatics Student | 🖥️ Frontend Developer
+- 🚀 Currently learning: HTML, CSS, and JavaScript
+- 📫 How to reach me: imranzmart023@email.com
+- 🌱 Fun fact: I love making projects that surprise my campus 😄
 
-<!--
-**akuuuel/akuuuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkuuuEL&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools I Use
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI--Assistant-brightgreen?logo=openai&logoColor=white)
